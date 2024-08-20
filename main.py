@@ -35,3 +35,5 @@ print(analysis.polarity)
 print(f'Sentiment: {"positive" if analysis.polarity > 0 else "negative" if analysis.polarity < 0 else "neutral"}')
 
 # start of graphical user interface code
+
+changes
