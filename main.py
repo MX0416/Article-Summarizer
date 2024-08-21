@@ -36,4 +36,3 @@ print(f'Sentiment: {"positive" if analysis.polarity > 0 else "negative" if analy
 
 # start of graphical user interface code
 
-changes
