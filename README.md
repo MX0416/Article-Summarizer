@@ -1,5 +1,5 @@
 # Article-Summarizer-ML
-A program written in Python that utilizes machine learning to summarize articles. 
+A program written in Python that utilizes machine learning APIs to summarize articles. 
 
 How to use:
 Enter any article link, such as a news article from CNN, paste it into the URL input bar, and hit summarize.
